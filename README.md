@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douggeng&label=Profile%20views&color=0e75b6&style=flat" alt="douggeng" /> </p>
 
-- 🔭 I’m currently working on **expanding my CRM**
-
-- 🌱 I’m currently learning **more Python, SQL, and Django**
+- 🌱 I’m currently expanding on my knowledge of **Python, SQL, and Django**
 
 - 📫 How to reach me **douggeng@gmail.com**
 
